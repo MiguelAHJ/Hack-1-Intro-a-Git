@@ -2,9 +2,9 @@
 
 <br/>
 
-```diff
+
 - LINKS INDIVIDUALES A CADA EJERCICIO (HACK)  
-```
+
 |Hacks | Links | 
 |----------|---------|
 | H-1      | https://github.com/MiguelAHJ/git_h_1.git |
